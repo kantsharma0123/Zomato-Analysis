@@ -1,8 +1,8 @@
-# Project description"
+# Project description"#
 
 In this project I have used SQL to answer various business questions for the company ZOMATO. I have used windows and analytical functions in SQL to answer the same.
 
-#Questions#
+<h1>Questions</h1>
 
 Q1 Metric 1 - What is the total amount each customer spent on zomato
 
