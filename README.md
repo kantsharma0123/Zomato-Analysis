@@ -1,4 +1,4 @@
-# Project description#
+<h1>Project description</h1>
 
 In this project I have used SQL to answer various business questions for the company ZOMATO. I have used windows and analytical functions in SQL to answer the same.
 
